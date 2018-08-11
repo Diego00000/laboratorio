@@ -1,0 +1,88 @@
+h1{
+	color:red;
+	text-align: right;
+}
+h2{
+	color: red;
+	background-color: green;
+}
+h3{
+	color: white;
+	background-color: green;
+}
+.d1{
+	color:red;
+	font-weight: lighter;
+	font-size: 40px;
+}
+.em1{
+	color: red;
+	background-color: yellow;
+}
+.l1{
+	color: white;
+	background-color: gray;
+}
+.p1{
+	background-color: red;
+}
+.c1{
+	background-color: green;
+}
+.u1{
+	color: white;
+	background-color: green;
+}
+.b1{
+	color: white;
+	background-color: black;
+}
+.gray1{
+	background-color: gray;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+h4{
+	color: white;
+	background-color: blue;
+}
+.em2{
+	color: blue;
+	background-color: black;
+	font-size: 20px;
+}
+	
+}
+.s1{
+	color:red;
+	font-weight: lighter;
+	font-size: 40px;
+}
+
+.h7{
+   color: white;
+   background-color: black;
+}
+.h8{
+	color: red;
+	font-weight: lighter;
+	font-size: 30px;
+}
+.h10{
+	color: red;
+	font-weight: lighter;
+	font-size: 40px;
+}
+.h11{
+	color: white;
+	background-color: black;
+}
+
+.h13 {
+	color: yellow;
+}
+.h14 {
+	color: blue;
+}
